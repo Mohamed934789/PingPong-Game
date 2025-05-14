@@ -58,7 +58,7 @@ PingPong-Game/
 
 2. Clone or download this repo:
 
-```bash
+
 git clone https://github.com/your-username/PingPong-Game.git
 cd PingPong-Game
 
