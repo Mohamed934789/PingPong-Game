@@ -52,17 +52,6 @@ PingPong-Game/
 
 ---
 
-## 🚀 How to Run the Game
-
-1. Make sure you have **Python 3.x** installed.
-
-2. Clone or download this repo:
-
-
-git clone https://github.com/your-username/PingPong-Game.git
-cd PingPong-Game
-
-
 
 🧰 Built With
 🐍 Python 3.x
